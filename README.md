@@ -1,4 +1,4 @@
-# SIMPLE OPENPROJECT TO GOOGLE CHAT BY WEBHOOK
+# SIMPLE SEND MESSAGE FROM OPENPROJECT TO GOOGLE CHAT BY WEBHOOK
 
 This simple project to convert data from OpenProject and push Message to Google Chat
 
